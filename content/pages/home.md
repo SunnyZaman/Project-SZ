@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+title: Project SZ
+featuredImage: 'https://ucarecdn.com/1e3d2a66-e074-4fde-83ff-51cc1c292887/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
