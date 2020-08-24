@@ -18,7 +18,8 @@ media_library:
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
-    delete: false # Prevent users from deleting documents in this collection
+    # delete: false # Prevent users from deleting documents in this collection
+    create: true
     editor:
       preview: true
     files:
@@ -140,7 +141,6 @@ collections: # A list of collections the CMS should be able to edit
       - file: 'content/pages/components.md'
         label: 'Components Page'
         name: 'components-page'
-        create: true 
         fields:
           - {
               label: Template,
