@@ -253,7 +253,7 @@ collections: # A list of collections the CMS should be able to edit
           label: Template,
           name: template,
           widget: hidden,
-          default: DefaultPage,
+          default: ComponentsPage,
         }
       - { label: Slug, name: slug, widget: string }
       - { label: Title, name: title, widget: string }
