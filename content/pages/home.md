@@ -3,13 +3,13 @@ template: HomePage
 slug: ''
 title: Project SZ
 featuredImage: 'https://ucarecdn.com/1e3d2a66-e074-4fde-83ff-51cc1c292887/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: ' A digital agency which specializes in design, development and interactive experiences'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: A digital agency which specializes in design, development and interactive experiences.
+  title: Project SZ
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Project SZ is a digital agency which specializes in design, development and interactive experiences. We keep up with the latest trends in the digital world and are dedicated in statifying our customers needs.
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
